@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Anand's Blog</title><link href="http://blog.papyruslibrary.org/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>http://blog.papyruslibrary.org/</id><updated>2014-12-28T21:30:00-08:00</updated><entry><title>Hello World</title><link href="http://blog.papyruslibrary.org/blog/2014/12/28/hello-world/" rel="alternate"></link><updated>2014-12-28T21:30:00-08:00</updated><author><name>Anand Gadiyar</name></author><id>tag:blog.papyruslibrary.org,2014-12-28:blog/2014/12/28/hello-world/</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Anand's Blog</title><link href="http://blog.papyruslibrary.org/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>http://blog.papyruslibrary.org/</id><updated>2014-12-28T21:29:00-08:00</updated><entry><title>Hello World</title><link href="http://blog.papyruslibrary.org/blog/2014/12/28/hello-world/" rel="alternate"></link><updated>2014-12-28T21:29:00-08:00</updated><author><name>Anand Gadiyar</name></author><id>tag:blog.papyruslibrary.org,2014-12-28:blog/2014/12/28/hello-world/</id><summary type="html">
 
 &lt;p&gt;Welcome to my new blog. It's taken me a long time to overcome inertia and start writing. I'd like to write on:&lt;/p&gt;
 &lt;ul&gt;
