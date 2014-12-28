@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Anand's Blog</title><link href="http://blog.papyruslibrary.org/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>http://blog.papyruslibrary.org/</id><updated>2014-09-17T20:15:00-07:00</updated><entry><title>Hello World 2</title><link href="http://blog.papyruslibrary.org/blog/2014/09/17/hello-world-2/" rel="alternate"></link><updated>2014-09-17T20:15:00-07:00</updated><author><name>Anand Gadiyar</name></author><id>tag:blog.papyruslibrary.org,2014-09-17:blog/2014/09/17/hello-world-2/</id><summary type="html">
-
-&lt;p&gt;Oh, well. Looks like I haven't made much progress after all.&lt;/p&gt;
-&lt;p&gt;Let's take another stab at it.
-&lt;/p&gt;</summary></entry><entry><title>Hello World</title><link href="http://blog.papyruslibrary.org/blog/2014/05/04/hello-world/" rel="alternate"></link><updated>2014-05-04T16:00:00-07:00</updated><author><name>Anand Gadiyar</name></author><id>tag:blog.papyruslibrary.org,2014-05-04:blog/2014/05/04/hello-world/</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Anand's Blog</title><link href="http://blog.papyruslibrary.org/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>http://blog.papyruslibrary.org/</id><updated>2014-12-28T21:30:00-08:00</updated><entry><title>Hello World</title><link href="http://blog.papyruslibrary.org/blog/2014/12/28/hello-world/" rel="alternate"></link><updated>2014-12-28T21:30:00-08:00</updated><author><name>Anand Gadiyar</name></author><id>tag:blog.papyruslibrary.org,2014-12-28:blog/2014/12/28/hello-world/</id><summary type="html">
 
 &lt;p&gt;Welcome to my new blog. It's taken me a long time to overcome inertia and start writing. I'd like to write on:&lt;/p&gt;
 &lt;ul&gt;
@@ -12,7 +8,7 @@
 &lt;li&gt;Software and Tools I find useful&lt;/li&gt;
 &lt;li&gt;(and more topics as I go along)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I'll try and devote an hour each day to writing, and target 50 posts in 2014.&lt;/p&gt;
+&lt;p&gt;I'll try and devote an hour each day to writing, and target 50 posts in 2015.&lt;/p&gt;
 &lt;p&gt;Wish me luck.&lt;/p&gt;
 &lt;p&gt;PS. A big shoutout to &lt;a href="http://jakevdp.github.io"&gt;jakevdp&lt;/a&gt; whose Pelican blog template I've taken wholesale as the starting point for my own blog. Take a look at his &lt;a href="http://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/"&gt;post&lt;/a&gt; on migrating to Pelican. My reasons for choosing Pelican are pretty much the same - I'm learning Python and don't care so much for Ruby. The Octopress theme looks awesome, and I'd like to embed &lt;a href="http://ipython.org/"&gt;IPython&lt;/a&gt; notebooks in posts as I learn to use IPython.&lt;/p&gt;
 </summary></entry></feed>
