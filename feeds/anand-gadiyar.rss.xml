@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anand's Blog</title><link>http://blog.papyruslibrary.org/</link><description>Musings and ramblings through the world of Python and beyond</description><atom:link href="/feeds/anand-gadiyar.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 28 Dec 2014 21:29:00 -0800</lastBuildDate><item><title>Hello World</title><link>http://blog.papyruslibrary.org/blog/2014/12/28/hello-world/</link><description>
+
+&lt;p&gt;Welcome to my new blog. It's taken me a long time to overcome inertia and start writing. I'd like to write on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Finance&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Software and Tools I find useful&lt;/li&gt;
+&lt;li&gt;(and more topics as I go along)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I'll try and devote an hour each day to writing, and target 50 posts in 2015.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+&lt;p&gt;PS. A big shoutout to &lt;a href="http://jakevdp.github.io"&gt;jakevdp&lt;/a&gt; whose Pelican blog template I've taken wholesale as the starting point for my own blog. Take a look at his &lt;a href="http://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/"&gt;post&lt;/a&gt; on migrating to Pelican. My reasons for choosing Pelican are pretty much the same - I'm learning Python and don't care so much for Ruby. The Octopress theme looks awesome, and I'd like to embed &lt;a href="http://ipython.org/"&gt;IPython&lt;/a&gt; notebooks in posts as I learn to use IPython.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anand Gadiyar</dc:creator><pubDate>Sun, 28 Dec 2014 21:29:00 -0800</pubDate><guid>tag:blog.papyruslibrary.org,2014-12-28:blog/2014/12/28/hello-world/</guid></item></channel></rss>
